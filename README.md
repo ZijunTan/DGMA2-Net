@@ -33,10 +33,11 @@ run ./tools/test.py
 This repository is built under the help of the projects [TFI-GR](https://github.com/guanyuezhen/TFI-GR) for academic use only.
 ## Citation
 @ARTICLE{10504297,  
-author={Ying, Zilu and Tan, Zijun and Zhai, Yikui and Jia, Xudong and Li, Wenba and Zeng, Junying and Genovese, Angelo and Piuri, Vincenzo and Scotti, Fabio},
-journal={IEEE Transactions on Geoscience and Remote Sensing},
-title={DGMA2-Net: A Difference-Guided Multiscale Aggregation Attention Network for Remote Sensing Change Detection},
-year={2024},
-volume={62},
-pages={1-16},
-doi={10.1109/TGRS.2024.3390206}}
+>author={Ying, Zilu and Tan, Zijun and Zhai, Yikui and Jia, Xudong and Li, Wenba and Zeng, Junying and Genovese, Angelo and Piuri, Vincenzo and Scotti, Fabio},
+>journal={IEEE Transactions on Geoscience and Remote Sensing},
+>title={DGMA2-Net: A Difference-Guided Multiscale Aggregation Attention Network for Remote Sensing Change Detection},
+>year={2024},
+>volume={62},
+>pages={1-16},
+>doi={10.1109/TGRS.2024.3390206}  
+}
