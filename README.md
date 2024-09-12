@@ -22,11 +22,15 @@ Remote sensing change detection (RSCD) focuses on identifying regions that have 
     └─list
 ```
 ### Train
+```
 run ./tools/train.py
+```
 ### Test
+```
 run ./tools/test.py
+```
 ## Acknowledgement
-This repository is built under the help of the projects TFI-GR for academic use only.
+This repository is built under the help of the projects [TFI-GR](https://github.com/guanyuezhen/TFI-GR) for academic use only.
 ## Citation
 @ARTICLE{10504297,
   author={Ying, Zilu and Tan, Zijun and Zhai, Yikui and Jia, Xudong and Li, Wenba and Zeng, Junying and Genovese, Angelo and Piuri, Vincenzo and Scotti, Fabio},
